@@ -9,7 +9,7 @@
 
 <div align="center">
 
-**🌍 Language:** [🇷🇺 Русский](README.md) | [🇺🇸 English](README_EN.md) | [🇹🇭 ไทย](README_TH.md)
+**🌍 Language:** [🇷🇺 Русский](README.md) | [🇺🇸 English](README_EN.md)
 
 </div>
 
