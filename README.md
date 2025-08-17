@@ -206,7 +206,7 @@
 
 ### **💳 Financial Services Integration**
 - **Thai Banking Partners**: local payment processing, THB settlements
-- **International Payments**: Stripe, Wise для foreign客户
+- **International Payments**: Stripe, Wise для foreign
 - **Cryptocurrency Support**: stablecoin payments для digital nomads
 - **Anti-Money Laundering**: KYC compliance для high-value transactions
 
