@@ -32,8 +32,8 @@ A comprehensive PropTech platform that revolutionizes Thailand's rental market b
 
 ## 🚀 **Key Innovation: Thailand-Specific Compliance**
 - **30+ Day Minimum**: Full compliance with Thai Hotel Act and Condominium regulations
-- **BOI Eligible**: 100% foreign ownership through Board of Investment privileges
-- **Automated TM30**: Automatic immigration reporting for foreign tenants
+- **BOI Eligible**: Foreign ownership opportunities through Board of Investment privileges
+- **Immigration Compliance**: Automated reporting and compliance for foreign tenants
 - **Legal Safety**: No hotel license issues, proper rental agreements
 
 ## 💡 **Why This Works in Thailand**
@@ -41,11 +41,11 @@ Unlike short-term rental platforms, SiamStay focuses on the underserved medium-t
 - **Legal compliance is simpler** (30+ days = no hotel license required)
 - **Demand is growing rapidly** (4M+ digital nomads annually)
 - **Competition is minimal** (no professional players in this niche)
-- **Margins are higher** (7-12% commission vs. Airbnb's 3-5%)
+- **Margins are competitive** (commission structure vs. other platforms)
 
 ## ⚡ **Unique Value Proposition**
 - **🤖 Full Automation**: AI-powered pricing, tenant scoring, maintenance scheduling
-- **💰 Transparent Pricing**: Fixed 7-12% commission included in rent
+- **💰 Transparent Pricing**: Competitive commission structure included in rent
 - **🛡️ Complete Protection**: Property insurance, vacancy compensation, legal coverage
 - **🌐 International Ready**: Multi-currency, multi-language, expat-focused
 - **📱 Modern Platform**: Mobile apps, IoT integration, real-time analytics
@@ -57,7 +57,7 @@ Unlike short-term rental platforms, SiamStay focuses on the underserved medium-t
 - **BOI tax benefits** provide competitive moat and regulatory protection
 
 ## 🎯 **Business Model**
-- **Commission**: 7-12% per booking (split between owner/tenant)
+- **Commission**: Competitive rate per booking (split between owner/tenant)
 - **Premium Services**: Photography, staging, concierge (+$200-500)
 - **Insurance & Protection**: Property protection plans (+$50-150/month)
 - **B2B Solutions**: Corporate housing packages (20-30% higher margins)
@@ -93,7 +93,7 @@ Unlike short-term rental platforms, SiamStay focuses on the underserved medium-t
 
 **🚀 Quick Links**:
 - **🎯 Business Model**: Commission-based rental management platform
-- **⚖️ Legal Compliance**: BOI-eligible structure with 100% foreign ownership
+- **⚖️ Legal Compliance**: BOI-eligible structure with foreign ownership opportunities
 - **🌏 Market**: Thailand medium-term rental (30+ days)
 - **💰 Investment**: Pre-seed round open for strategic partners
 
