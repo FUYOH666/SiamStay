@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-brightgreen.svg)
 ![React](https://img.shields.io/badge/React-18-blue.svg)
 ![Thailand](https://img.shields.io/badge/Market-Thailand-green.svg)
-![BOI](https://img.shields.io/badge/BOI-Eligible-gold.svg)
+![Government](https://img.shields.io/badge/Government-Eligible-gold.svg)
 ![PropTech](https://img.shields.io/badge/PropTech-Platform-purple.svg)
 ![Seeking](https://img.shields.io/badge/Seeking-Investment%20%26%20Partners-red.svg)
 
@@ -31,7 +31,7 @@
 ## ⚠️ **Проблема:**
 Рынок среднесрочной аренды в Таиланде болен системными проблемами:
 - **🕸️ Множество посредников** - агенты берут 1-2 месячные комиссии с каждой стороны
-- **📋 Сложное оформление** - тайские договоры, TM30, депозиты, коммунальные
+- **📋 Сложное оформление** - множественные документы, бюрократические процедуры
 - **💸 Непрозрачные платежи** - скрытые комиссии, завышенные цены для иностранцев
 - **🔍 Отсутствие проверки** - нет контроля качества жилья и надежности арендаторов
 - **⚖️ Юридические риски** - нарушения immigration law, hotel license issues
@@ -41,8 +41,8 @@
 ## ✅ **Решение:**
 **SiamStay** - это комплексная PropTech платформа, которая:
 - **🤖 Автоматизирует весь цикл аренды** - от поиска до заселения и обслуживания
-- **💰 Прозрачное ценообразование** - фиксированная комиссия 7-12%, включенная в стоимость
-- **⚖️ Юридическая безопасность** - только легальная аренда 30+ дней, автоматический TM30
+- **💰 Прозрачное ценообразование** - конкурентные комиссии, включенные в стоимость
+- **⚖️ Юридическая безопасность** - соблюдение местного законодательства, автоматизированный комплаенс
 - **🏠 Управление полного цикла** - подготовка, фото, продвижение, проверка арендаторов
 - **💳 Цифровые платежи** - THB, карты, PromptPay, крипто для международных клиентов
 - **🛡️ Страхование и гарантии** - защита имущества, компенсация простоя
@@ -114,7 +114,7 @@
 
 **Phase 2 - Technology Platform (Месяцы 3-8):**
 - Разработка полноценной платформы с AI и автоматизацией
-- Получение BOI статуса и налоговых льгот
+- Оптимизация налогового планирования и регуляторное соответствие
 - Масштабирование до 500+ объектов, выход в Бангкок
 
 **Phase 3 - Market Leader (Месяцы 8-18):**
@@ -124,7 +124,7 @@
 
 ## 📊 **Статус проекта:**
 - **💡 Concept Validated** - детальный market research и competitive analysis завершен
-- **⚖️ Legal Framework** - изучены BOI requirements и regulatory compliance
+- **⚖️ Legal Framework** - проанализированы регуляторные требования и compliance процедуры
 - **👨‍💻 Solo Founder** - ищу technical co-founder и local Thai partners
 - **💰 Pre-seed Ready** - открыт для angel investment $100K-500K
 - **🏗️ MVP Planning** - готов к разработке минимально жизнеспособного продукта
@@ -134,7 +134,7 @@
 - **Property Onboarding**: фотосъемка, описания, ценообразование
 - **Maintenance Coordination**: автоматический scheduling, contractor management
 - **Performance Analytics**: occupancy rates, revenue optimization
-- **Compliance Management**: TM30 filing, tax reporting, safety inspections
+- **Compliance Management**: соблюдение миграционного законодательства, отчетность, инспекции
 
 ### **Guest Experience & Services**
 - **Seamless Check-in**: digital keys, welcome packages, local guides
