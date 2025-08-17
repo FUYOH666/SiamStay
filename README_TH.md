@@ -110,7 +110,7 @@
 ---
 
 ## 📞 **ติดต่อ:**
-- **📧 Email:** [aleksandrmordvinovv@gmail.com](mailto:aleksandrmordvinovv@gmail.com)
+- **📧 Email:** [iamfuyoh@gmail.com](mailto:iamfuyoh@gmail.com)
 - **💼 LinkedIn:** [aleksandr-mordvinov](https://linkedin.com/in/aleksandr-mordvinov)
 - **🔗 GitHub:** [FUYOH666](https://github.com/FUYOH666)
 
