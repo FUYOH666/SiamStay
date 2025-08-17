@@ -111,7 +111,7 @@
 
 ## 📞 **ติดต่อ:**
 - **📧 Email:** [iamfuyoh@gmail.com](mailto:iamfuyoh@gmail.com)
-- **💼 LinkedIn:** [aleksandr-mordvinov](https://linkedin.com/in/aleksandr-mordvinov)
+- **💼 LinkedIn:** [aleksandr-mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/)
 - **🔗 GitHub:** [FUYOH666](https://github.com/FUYOH666)
 
 ---
