@@ -52,7 +52,7 @@
 ### **💰 Экономические выгоды**
 - **Владельцам**: +30-50% доходность через оптимизацию заполняемости
 - **Арендаторам**: -20-40% экономия на комиссиях и посредниках  
-- **Платформе**: 7-12% комиссия + доп. услуги = $50K-200K месячная прибыль
+- **Платформе**: конкурентная комиссия + доп. услуги = значительная месячная прибыль
 - **Рынку**: Снижение транзакционных издержек, рост прозрачности
 
 ### **⚡ Технологические преимущества**
@@ -62,7 +62,7 @@
 - **Predictive Maintenance** - предупреждение поломок, автоматическое обслуживание
 
 ### **🌏 Масштабируемость и регуляторные льготы**
-- **BOI Status** - 100% foreign ownership, налоговые льготы, упрощенное лицензирование
+- **BOI Eligible** - foreign ownership возможности, налоговые преимущества, упрощенное лицензирование
 - **Международная экспансия** - модель применима в других странах ЮВА
 - **Network Effects** - больше объектов = больше арендаторов = выше margins
 - **Data Moat** - уникальные данные о предпочтениях nomads и pricing patterns
@@ -90,12 +90,12 @@
 **Integrations & Services:**
 - **Stripe + Thai Banks** - международные и локальные платежи
 - **Google Maps/HERE** - карты, геолокация, районирование
-- **Thai Immigration APIs** - автоматический TM30, проверка виз
+- **Government Integrations** - автоматизированный комплаенс, проверка статусов
 - **IoT Platforms** - интеграция умных устройств и сенсоров
 
 ### **📊 Бизнес-модель и монетизация**
 **💰 Revenue Streams:**
-- **Service Fee**: 7-12% с каждой аренды (split между owner/tenant)
+- **Service Fee**: конкурентная комиссия с каждой аренды (split между owner/tenant)
 - **Premium Services**: фотосъемка, staging, экспресс-заселение (+$200-500)
 - **Insurance & Protection**: страховки, damage protection (+$50-150/месяц)
 - **Corporate Accounts**: B2B решения для компаний (+20-30% margins)
@@ -200,7 +200,7 @@
 
 ### **🏠 Property Management Compliance**
 - **30+ Days Minimum**: compliance с Thai Hotel Act и Condominium Act  
-- **TM30 Automation**: automatic immigration reporting для foreign tenants
+- **Immigration Compliance**: автоматизированная отчетность для foreign tenants
 - **Insurance Requirements**: property protection, liability coverage
 - **Tax Reporting**: automated WHT, house & land tax для property owners
 
