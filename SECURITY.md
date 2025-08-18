@@ -4,10 +4,6 @@
 
 We take the security of SiamStay seriously. If you discover a security vulnerability, please help us protect our users by following responsible disclosure practices.
 
-### **🔍 How to Report**
-
-**⚠️ DO NOT** create public GitHub issues for security vulnerabilities.
-
 **✅ Please contact us directly:**
 - **📧 Email:** iamfuyoh@gmail.com
 - **🔒 Subject:** "[SECURITY] SiamStay Vulnerability Report"
