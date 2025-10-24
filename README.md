@@ -159,7 +159,7 @@
 ## 📞 **Партнерство и инвестиции**
 
 ### **👨‍💻 Founder**
-- **Email**: [iamfuyoh666@gmail.com](mailto:iamfuyoh666@gmail.com)
+- **Email**: [iamfuyoh@gmail.com](mailto:iamfuyoh@gmail.com)
 - **LinkedIn**: [Aleksandr Mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/)
 - **GitHub**: [FUYOH666](https://github.com/FUYOH666)
 
