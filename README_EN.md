@@ -82,7 +82,7 @@ Unlike short-term rental platforms, SiamStay focuses on the underserved medium-t
 
 ### **Contact**
 - **Founder**: Aleksandr Mordvinov
-- **Email**: [iamfuyoh@gmail.com](mailto:iamfuyoh@gmail.com)
+- **Email**: [contact@project.com](mailto:contact@project.com)
 - **LinkedIn**: [aleksandr-mordvinov](https://www.linkedin.com/in/aleksandr-mordvinov-3bb853325/)
 
 ---
