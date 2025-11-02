@@ -1,0 +1,105 @@
+# Core framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.2
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+
+# Database and ORM
+sqlalchemy==2.0.23
+alembic==1.13.1
+asyncpg==0.29.0
+psycopg2-binary==2.9.9
+
+# Caching and background tasks
+redis==5.0.1
+celery==5.3.4
+celery-beat==2.5.0
+
+# Payment processing
+stripe==7.8.0
+omise==0.11.0
+
+# Thai-specific integrations
+promptpay==1.0.3
+thai-national-id-validator==1.0.2
+
+# Geographic and mapping
+googlemaps==4.10.0
+geopy==2.4.1
+
+# Image processing (for property photos)
+Pillow==10.1.0
+opencv-python==4.8.1.78
+
+# AI and ML for pricing
+scikit-learn==1.3.2
+pandas==2.1.4
+numpy==1.25.2
+tensorflow==2.15.0
+
+# Communication
+twilio==8.11.0
+sendgrid==6.11.0
+
+# File storage and CDN
+boto3==1.35.0
+cloudinary==1.36.0
+
+# Authentication and security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+
+# Configuration and environment
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Date and time handling
+python-dateutil==2.8.2
+pytz==2023.3
+
+# HTTP clients
+httpx==0.25.2
+aiohttp==3.9.1
+requests==2.31.0
+
+# Validation and utilities
+validators==0.22.0
+phonenumbers==8.13.27
+email-validator==2.1.0
+
+# Monitoring and logging
+structlog==23.2.0
+sentry-sdk[fastapi]==1.39.2
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-mock==3.12.0
+factory-boy==3.3.0
+
+# Code quality
+black==23.11.0
+isort==5.13.2
+flake8==6.1.0
+mypy==1.7.1
+
+# Documentation
+mkdocs==1.5.3
+mkdocs-material==9.4.10
+
+# Production deployment
+gunicorn==21.2.0
+python-json-logger==2.0.7
+
+# Blockchain and crypto (for crypto payments)
+web3==6.12.0
+eth-account==0.10.0
+
+# Currency conversion
+forex-python==1.8
+
+# Thai language processing (optional)
+pythainlp==4.0.2
+thai-segmentation==0.4.2

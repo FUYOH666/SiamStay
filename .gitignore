@@ -1,0 +1,208 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Environment variables and secrets
+.env
+config/secrets.yaml
+api_keys.json
+credentials.json
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+postgres_data/
+
+# Property data and uploads
+property_photos/
+property_videos/
+user_uploads/
+media/
+static/media/
+
+# Payment and financial data
+payment_logs/
+transaction_data/
+bank_details/
+tax_records/
+
+# Thai government and legal documents
+contract_templates/
+tm30_records/
+visa_documents/
+legal_compliance/
+
+# Analytics and reports
+analytics_data/
+revenue_reports/
+occupancy_reports/
+
+# Logs
+logs/
+*.log
+log_*
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Redis dump
+dump.rdb
+
+# Third-party API credentials
+stripe_keys.json
+omise_credentials.json
+google_maps_api.json
+promptpay_config.json
+
+# Thai banking and payment
+scb_api_keys.json
+kasikorn_credentials.json
+thai_banking_config.json
+
+# Blockchain and crypto
+wallet_private_keys/
+crypto_credentials.json
+blockchain_config.json
+
+# AI/ML models and data
+models/
+*.pth
+*.pt
+*.h5
+*.pkl
+*.joblib
+training_data/
+ml_cache/
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+.docker/
+
+# Node.js (for frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.next/
+out/
+build/
+
+# Production deployment
+.vercel
+.railway
+.render
+
+# Backups
+*.backup
+*.bak
+database_backups/
+
+# Temporary files
+temp/
+tmp/
+temp_*
+*.tmp
+
+# Documentation builds
+site/
+docs/site/
+
+# BOI and legal documents
+boi_application/
+legal_documents/
+government_correspondence/
+
+# Property inspection reports
+inspection_reports/
+maintenance_logs/
+property_condition_reports/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.crt
+credentials.json
+config.local.*
+secrets.yml
+.env.backup
+
+# Security sensitive files
+**/secrets/
+**/keys/
+**/certs/
+**/ssl/
+
+# API keys and tokens
+*.api_key
+*.token
+api_keys.txt
+tokens.json
+
+# Database credentials
+*.db_pass
+database.yml
+db_config.json
+
+# Backup files with sensitive data
+*.bak
+*~
