@@ -43,7 +43,7 @@ twilio==8.11.0
 sendgrid==6.11.0
 
 # File storage and CDN
-boto3==1.35.0
+boto3==1.40.69
 cloudinary==1.36.0
 
 # Authentication and security
